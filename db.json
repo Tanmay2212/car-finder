@@ -1,0 +1,155 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Toyota Corolla",
+        "brand": "Toyota",
+        "price": 15000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Reliable sedan with great mileage."
+      },
+      {
+        "id": 2,
+        "name": "Honda Civic",
+        "brand": "Honda",
+        "price": 18000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Sporty and efficient."
+      },
+      {
+        "id": 3,
+        "name": "Hyundai Elantra",
+        "brand": "Hyundai",
+        "price": 17000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Comfortable city car."
+      },
+      {
+        "id": 4,
+        "name": "Ford Mustang",
+        "brand": "Ford",
+        "price": 30000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 4,
+        "image": "/images/car1.jpg",
+        "description": "Powerful muscle car."
+      },
+      {
+        "id": 5,
+        "name": "Tesla Model 3",
+        "brand": "Tesla",
+        "price": 40000,
+        "fuelType": "Electric",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Futuristic electric sedan."
+      },
+      {
+        "id": 6,
+        "name": "BMW 3 Series",
+        "brand": "BMW",
+        "price": 35000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Luxury meets performance."
+      },
+      {
+        "id": 7,
+        "name": "Audi A4",
+        "brand": "Audi",
+        "price": 37000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Elegant and premium."
+      },
+      {
+        "id": 8,
+        "name": "Kia Seltos",
+        "brand": "Kia",
+        "price": 21000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Feature-packed compact SUV."
+      },
+      {
+        "id": 9,
+        "name": "Mahindra XUV700",
+        "brand": "Mahindra",
+        "price": 25000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 7,
+        "image": "/images/car1.jpg",
+        "description": "Spacious and powerful SUV."
+      },
+      {
+        "id": 10,
+        "name": "Tata Nexon EV",
+        "brand": "Tata",
+        "price": 28000,
+        "fuelType": "Electric",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Affordable electric SUV."
+      },
+      {
+        "id": 11,
+        "name": "Suzuki Swift",
+        "brand": "Suzuki",
+        "price": 12000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Compact hatchback."
+      },
+      {
+        "id": 12,
+        "name": "Volkswagen Polo",
+        "brand": "Volkswagen",
+        "price": 14000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Solid German engineering."
+      },
+      {
+        "id": 13,
+        "name": "Renault Duster",
+        "brand": "Renault",
+        "price": 16000,
+        "fuelType": "Diesel",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Rugged and reliable."
+      },
+      {
+        "id": 14,
+        "name": "Mercedes-Benz C-Class",
+        "brand": "Mercedes-Benz",
+        "price": 45000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Luxury redefined."
+      },
+      {
+        "id": 15,
+        "name": "Nissan Magnite",
+        "brand": "Nissan",
+        "price": 13000,
+        "fuelType": "Petrol",
+        "seatingCapacity": 5,
+        "image": "/images/car1.jpg",
+        "description": "Compact SUV at a budget."
+      }
+    ]
+  }
+  
